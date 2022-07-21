@@ -1,1 +1,1 @@
-### See the Dataset from this link https://drive.google.com/drive/folders/1Vb1m2V_yKnjvF4m3Jdip1dhxg0ZuFrHG?usp=sharing
+Basically this dataset is urdu sign language dataset in which we have to classify Alphabets of Urdu using Convolutional Neural Network. This Dataset have urdu alphabet's sign images.
